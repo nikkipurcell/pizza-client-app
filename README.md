@@ -1,6 +1,6 @@
 # pizza-client-app
 
-This is a React project for a Pizza restaurant. The restaurant is called Padre Gino's Pizza.
+This is a React project for a Pizza restaurant. The restaurant is called Padre Gino's Pizza. Live url is here: [https://exquisite-dasik-06aac0.netlify.app/](https://exquisite-dasik-06aac0.netlify.app/)
 
 ## About
 
@@ -17,4 +17,3 @@ The server data exists on Render remotely hosted. Locally it uses the fastify se
 ## Hosting
 
 This app will be hosted on Netlify.
-
