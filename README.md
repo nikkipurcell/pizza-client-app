@@ -17,3 +17,8 @@ The server data exists on Render remotely hosted. Locally it uses the fastify se
 ## Hosting
 
 This app will be hosted on Netlify.
+
+## Updating Code
+
+After making changes in the repo, and committing changes to Git, push to remote.
+Changes to remote Github can trigger a redeploy on Netlify. If not login and go to project and manually deploy to see the latest changes.
